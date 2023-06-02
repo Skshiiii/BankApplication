@@ -1,0 +1,36 @@
+body{
+    background-color: cornflowerblue;
+}
+.header{
+    background-color:white;
+}
+.title{
+    text-align:center;
+    text-decoration: underline;
+}
+.formname{
+    text-align: center;
+}
+.ad{
+    text-align:right;
+    margin-right: 10px;
+}
+.date{
+    text-align:right;
+    margin-right: 10px;
+}
+label{
+    margin-top: 10px;
+}
+input{
+    margin-top: 10px;
+}
+select{
+    margin-top: 10px;
+}
+.sign{
+    text-align: right;
+}
+h1{
+    text-align: center;
+}
